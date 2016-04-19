@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyFirstDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="J">J</string>
+    <string name="G">G</string>
+    <string name="BREAK">BREAK</string>
+    <string name="LEFT">LEFT</string>
+    <string name="RIGHT">RIGHT</string>
+    <string name="DOWN">Down</string>
+    <string name="UP">UP</string>
+    <string name="K">K</string>
+</resources>
